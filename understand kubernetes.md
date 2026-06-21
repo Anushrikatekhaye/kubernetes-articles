@@ -2,6 +2,8 @@
 
 ## 📖 About This Article
 
+![Kubernetes Explained](https://github.com/Anushrikatekhaye/kubernetes-articles/blob/main/understand%20kubernetesimage.png)
+
 Containers revolutionized application deployment by providing consistency across environments. However, running containers alone is not enough for modern production workloads.
 
 In this article, I explain why Kubernetes has become the industry standard for container orchestration and how it helps organizations manage applications at scale with automation, resilience, and high availability.
